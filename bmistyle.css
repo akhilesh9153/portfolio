@@ -1,0 +1,19 @@
+
+
+.container{
+    display: flex;
+    justify-content: flex-start;
+    margin: 1rem;
+
+}
+#Height{
+    border: #6f6565 solid 1px;
+  
+}
+#weight{
+    border: #6f6565 solid;
+    
+}
+#results{
+ margin-top: 0.8rem;
+} 
